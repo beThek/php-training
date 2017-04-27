@@ -1,21 +1,14 @@
 # PHP
->_[Training](https://github.com/simplonco/training) / PHP_
-
-## Subsections
-
-> * _Training / PHP / **[POO](https://github.com/simplonco/poo-training)**_
-> * _Training / PHP / **[PDO](https://github.com/simplonco/pdo-training)**_
-> * _Training / PHP / **[Symfony](https://github.com/simplonco/symfony-training)**_
-> * _Training / PHP / **[Wordpress](https://github.com/simplonco/wordpress-training)**_
 
 ## Courses
 
-* `pdf` [PHP Basics](https://github.com/simplonco/php-training/blob/master/courses/Tutoriel PHP - Introduction.pdf) _Fundamental of PHP_ :elephant:
-* `pdf` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/courses/Tutoriel MySQL - Introduction.pdf) _Fundamental of MySQL_
+* [Introduction](https://github.com/becodeorg/BXLCentral/blob/cours-php/Projects/1%20-%20Forms/exercices-php.md)
 
-## Starters
+* `pdf` [PHP Basics](https://github.com/simplonco/php-training/blob/master/courses/Tutoriel%20PHP%20-%20Introduction.pdf) _Fundamental of PHP_ :elephant:
 
-> Short ressources to engage your training
+## Apéritifs
+
+> Petites séries d'exercices pour démarrer votre apprentissage
 
 * [The variables](https://github.com/simplonco/php-exercises-variable) _Starting php with the variables_
 * [The circumstances](https://github.com/simplonco/php-exercises-circumstances) _Starting php with the circumstances_
@@ -29,7 +22,7 @@
 
 ## Exercises
 
-> Exercices given without automated validation, with just a short explanation
+> Exercices avec juste ce qu'il faut d'explications
 
 * [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
 * [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
@@ -37,11 +30,6 @@
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Chocolate cookies](https://github.com/simplonco/chocolate-cookies) :cookie:
 
-#### TDD Challenges
-
-> TDD exercices validated by Travis CI (cool for algorithms teaching), was imported from exercism.io
-
-* :trophy: [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Projects
 
@@ -59,24 +47,19 @@
 
 * Official Documentation [Français :fr:](http://php.net/manual/fr/index.php) / [English :gb:](http://php.net/manual/en/index.php)
 * PHP in Y minutes [Français :fr:](https://learnxinyminutes.com/docs/fr-fr/php/) / [English :gb:](https://learnxinyminutes.com/docs/php/)
-* Big Books: [The Right Way](http://www.phptherightway.com/) :gb:
 * Install LAMP [Français :fr:](https://doc.ubuntu-fr.org/lamp) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) & Install [LLMP :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04)
 * Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
 
-#### Awesome lists
-
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) :sunglasses:
-* [Awesome Composer](https://github.com/jakoch/awesome-composer) :sunglasses:
 
 #### IDEs
 
+* [Atom](https://atom.io/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
-* [Nuclide](https://nuclide.io/)
 
 ## How to Contribute
 
 Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
 
-Do you want to add a resource? correct a mistake? Or do you need a new exercise or project to cover a topic? Do not hesitate to write an [issue](https://github.com/simplonco/php-training/issues)!
+Do you want to add a resource? correct a mistake? Or do you need a new exercise or project to cover a topic? Do not hesitate to write an [issue](https://github.com/becodeorg/php-training/issues)!
 
 _To be continued.._
